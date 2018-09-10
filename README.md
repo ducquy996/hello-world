@@ -1,2 +1,2 @@
 # hello-world
-This is Quy 
+This is Quy. I'm studying Mathematical Finance
